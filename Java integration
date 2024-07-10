@@ -1,0 +1,9 @@
+List<Integer> listOfNumbers;
+
+public List<Integer> getNumberS(){
+return listOfNumbers;
+}
+
+public void setNumbers(List<Integer> listOfNumbers){
+this.listOfNumbers = listOfNumbers;
+}
